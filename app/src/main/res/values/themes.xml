@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema base -->
+    <style name="Base.Theme.Projint_3" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Cores principais (adicione estas linhas) -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryContainer">@color/purple_200</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/teal_200</item>
+
+        <!-- Estilo padrão para botões -->
+        <item name="buttonStyle">@style/Widget.Projint_3.Button</item>
+
+        <!-- Fonte padrão -->
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="Theme.Projint_3" parent="Base.Theme.Projint_3" />
+
+    <!-- Estilo customizado para botões (adicione este bloco) -->
+    <style name="Widget.Projint_3.Button" parent="Widget.Material3.Button">
+        <item name="android:minHeight">48dp</item>
+        <item name="android:backgroundTint">@color/purple_500</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+</resources>

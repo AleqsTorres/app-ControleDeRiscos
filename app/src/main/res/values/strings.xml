@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Projint_3</string>
+    <string name="login">Login</string>
+    <string name="senha">Senha</string>
+    <string name="email">Email</string>
+    <string name="descricao">Descrição</string>
+    <string name="imagem_selecionada">Imagem selecionada</string>
+    <string name="criar_senha">Crie sua senha</string>
+    <string name="criar_conta">Criar Conta</string>
+</resources>

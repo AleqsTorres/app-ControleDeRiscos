@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "353927333282",
+    "project_id": "controleriscosalex",
+    "storage_bucket": "controleriscosalex.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353927333282:android:cfd8c607b01f9e60c81efb",
+        "android_client_info": {
+          "package_name": "com.alex.controle_riscos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcpJ7yn2GkmR0-9mEP4BF7gadclqwlMvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
